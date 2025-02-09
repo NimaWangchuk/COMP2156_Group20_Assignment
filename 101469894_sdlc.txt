@@ -38,4 +38,4 @@ Benefits of SDLC:
 
 - Systematic testing and documentation
 
-Conclusion: SDLC plays a vital role in shapping the work of a programmer
+Conclusion: SDLC plays a vital role in shapping the work of a programmer and therefore is an important knowledge to be accuquired! 
