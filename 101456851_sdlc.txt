@@ -59,3 +59,60 @@ Learning DevOps is essential for anyone in software development. It enhances eff
 and collaboration, making the development cycle more agile, scalable, and cost-effective. 
 As DevOps continues to evolve with AI-driven automation, its demand in the tech industry will 
 only grow.
+
+
+Key Phases of SDLC
+1 Planning
+
+-Define project scope, objectives, and feasibility.
+-Identify resources, budget, and timeline.
+-Risk assessment and mitigation strategies.
+
+2 Requirement Analysis
+
+-Gather and document functional and non-functional requirements.
+-Stakeholder and user input.
+-Tools: JIRA, Confluence, Microsoft Visio.
+
+3 Design
+
+-Create system architecture and database design.
+-UI/UX design considerations.
+-Tools: UML Diagrams, Figma, Lucidchart.
+
+4 Implementation (Coding & Development)
+
+-Write the actual code based on design specifications.
+-Follow coding standards and best practices.
+-Version control with Git/GitHub/GitLab.
+
+5 Testing
+
+-Conduct unit, integration, system, and user acceptance testing (UAT).
+-Identify and fix defects.
+-Tools: Selenium, JUnit, Postman.
+
+6 Deployment
+
+-Release the software to production or users.
+-Can be done in phases (e.g., beta testing, rolling updates).
+-CI/CD tools: Jenkins, Docker, Kubernetes.
+
+7 Maintenance & Monitoring
+
+-Ongoing bug fixes, updates, and performance monitoring.
+-Implement security patches.
+-Tools: Prometheus, ELK Stack, Splunk.
+
+
+   Popular SDLC Models
+- Waterfall Model – Linear, sequential approach (best for well-defined projects).
+- Agile Model – Iterative, flexible development with continuous feedback.
+- DevOps Model – Automates development, testing, and deployment for faster releases.
+- Spiral Model – Risk-driven approach with iterative refinements.
+
+
+Software Development Life Cycle (SDLC) is a structured process used by 
+software engineers to design, develop, test, and deploy high-quality software
+efficiently. It ensures that software meets business and technical 
+requirements while minimizing risks and costs.
