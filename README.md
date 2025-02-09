@@ -13,13 +13,13 @@ The assignment focuses on GitHub collaboration, branching strategies, and CI/CD 
 ## Setup Instructions
 To get started with this repository, follow these steps:
 1. Clone the repository:
-'''sh  
-   git clone https://github.com/YourUsername/COMP2156_Group20_Assignment.git
+
+  git clone https://github.com/YourUsername/COMP2156_Group20_Assignment.git
 
 2. Navigate to the repository: 
-cd COMP2156_Group20_Assignment
-3. Switch to your assigned branch
-git checkout STUDENTID-Name
+ cd COMP2156_Group20_Assignment
+3. Switch to your assigned branch:
+ git checkout STUDENTID-Name
 
 4.Make your changes and push them:
 git add .
