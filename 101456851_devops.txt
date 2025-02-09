@@ -1,0 +1,50 @@
+The COMP 3104 - DevOps course is a component of George Brown College's Computer Programming and 
+Analysis(T177) advamced diploma program. This course is designed to provide students with practical 
+knowledge and skills in DevOps practices, emphasizing the integration of development and operations 
+to enhance the software development life cycle.
+
+Course Details:
+- Course Code: COMP 3104
+
+- Course Title: DevOps
+
+- Prerequisites: COMP 2154-System Development Project
+
+- Hours per Week: 3
+
+
+In the 2024-2025 academic pathway, COMP 3104 is scheduled in Semester 5(Fall term). The course 
+builds upon foundational knowledge from previous courses, particularly focusing on system 
+development projects.
+
+Learning Objectives:
+
+While specific course content may evolve, students can expect to engage with topics such as:
+
+- Continuous Integration and Continuous Deployment (CI/CD) pipelines
+
+- Automation of software devlopment processes
+
+- Infrastructure as Code (IaC)
+
+- Monitoring and logging practices
+
+- Collaboration and communicating between development and operations teams
+
+
+These topics aim to equip students with the skills necessary to implement DevOps practices 
+effectively, fostering a culture of collaboration and efficiency in software development.
+
+Instructor Insights:
+
+According to student feedback, instructors like Pritesh Patel have been noted for their comprehensive
+approach to teaching DevOps, covering a wide array of tools and practices to provide a holistic 
+understanding of the field.
+
+Additional Resources:
+
+For more detailed information about the course structure and content, students can refer to the
+COMP 3104 course repository on Github, which may include syllabi, assignments, and other relevant materials.
+
+By completing COMP 3104, students will be well-prepared to apply DevOps methodologies in real-world 
+scenarios, enhancing their capabilities in the software development and IT operations landscape.
