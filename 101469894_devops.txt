@@ -1,0 +1,28 @@
+###About DEVOPS-SUMMARY
+DevOps is a methodology that combines Development (Dev) and Operations (Ops) to improve software delivery through automation, collaboration, and continuous improvement. Key aspects include CI/CD pipelines, automated testing, infrastructure as code, and constant monitoring.
+
+Benefits of DevOps:
+
+- Faster software delivery
+
+- Improved collaboration
+
+- Enhanced reliability
+
+- Automated processes
+
+- Better quality control
+
+
+Core DevOps practices:
+
+1. Continuous Integration
+
+2. Continuous Delivery
+
+3. Infrastructure as Code
+
+4. Monitoring and Logging
+
+5. Microservices Architecture
+Devops in simple is like a bridge between developers and operations team.
