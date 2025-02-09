@@ -13,21 +13,24 @@ The assignment focuses on GitHub collaboration, branching strategies, and CI/CD 
 ## Setup Instructions
 To get started with this repository, follow these steps:
 1. Clone the repository:
-  
+'''sh  
    git clone https://github.com/YourUsername/COMP2156_Group20_Assignment.git
 
 2. Navigate to the repository: 
 cd COMP2156_Group20_Assignment
 3. Switch to your assigned branch
 git checkout STUDENTID-Name
+
 4.Make your changes and push them:
 git add .
+
 git commit -m "Your commit message"
+
 git push origin STUDENTID-Name
 
 
 #### **5. CI/CD Pipeline**
-```md
+
 ## CI/CD Pipeline
 This project uses **GitHub Actions** for Continuous Integration (CI).  
 The workflow is defined in `.github/workflows/ci.yml` and automatically runs tests upon a push or pull request.
