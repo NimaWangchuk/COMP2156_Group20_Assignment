@@ -25,3 +25,4 @@ Core DevOps practices:
 4. Monitoring and Logging
 
 5. Microservices Architecture
+Devops in simple is like a bridge between developers and operations team.
