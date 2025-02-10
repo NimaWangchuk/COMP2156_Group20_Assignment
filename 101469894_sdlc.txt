@@ -1,0 +1,41 @@
+###About SDLC
+Software Development Life Cycle (SDLC) is a systematic process for planning, creating, testing, and deploying software systems. The main phases include:
+
+
+1. Planning: Initial phase where requirements are gathered and analyzed
+
+2. Design: System architecture and technical specifications are created
+
+3. Implementation: Actual coding and development of the software
+
+4. Testing: Verification and validation of the software
+
+5. Deployment: Release of the software to users
+
+6. Maintenance: Ongoing support and updates
+
+
+Common SDLC models include:
+
+- Waterfall: Sequential approach
+
+- Agile: Iterative and flexible approach
+
+- Spiral: Risk-driven approach
+
+- V-Model: Verification and validation model
+
+
+Benefits of SDLC:
+
+- Structured approach to development
+
+- Clear objectives and expectations
+
+- Better resource management
+
+- Quality control and risk management
+
+- Systematic testing and documentation
+
+Conclusion: SDLC plays a vital role in shapping the work of a programmer and therefore is an important knowledge to be accuquired! 
