@@ -3,3 +3,4 @@ The course consists of three hours of lectures per week.
 Additionally, there are GitHub repositories indicating that COMP 3104 is also offered at George Brown College as a DevOps course. For example, the repository by Esteban at George Brown contains coursework related to this DevOps course. 
 GITHUB.COM
  However, specific details about the course content at George Brown College are not provided in the available sources.
+ It also explores the business and technological benefits of DevOps and its implementation using Agile methodologies. 
