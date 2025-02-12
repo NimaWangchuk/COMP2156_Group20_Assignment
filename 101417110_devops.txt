@@ -1,2 +1,5 @@
 COMP 3104 is a DevOps course that covers key concepts and practices in software development, focusing on continuous integration, automation, and collaboration. Students learn about version control, containerization, cloud technologies, and deployment strategies. The course prepares students to effectively manage software projects and implement DevOps practices in real-world environments.
 The course consists of three hours of lectures per week.
+Additionally, there are GitHub repositories indicating that COMP 3104 is also offered at George Brown College as a DevOps course. For example, the repository by Esteban at George Brown contains coursework related to this DevOps course. 
+GITHUB.COM
+ However, specific details about the course content at George Brown College are not provided in the available sources.
