@@ -1,2 +1,2 @@
-Devops course 2025, with Lecture on Monday from 6pm to 8pm, and Lab on wednesday from
- 4pm to 6pm.
+Comp 3104, DevOps course is offered at George Brown College as part of the Computer program, this course focuses on DevOp
+s practices, including continuous integration and continuos deployment.  
