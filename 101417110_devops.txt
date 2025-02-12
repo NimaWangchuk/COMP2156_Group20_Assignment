@@ -1,1 +1,2 @@
 COMP 3104 is a DevOps course that covers key concepts and practices in software development, focusing on continuous integration, automation, and collaboration. Students learn about version control, containerization, cloud technologies, and deployment strategies. The course prepares students to effectively manage software projects and implement DevOps practices in real-world environments.
+The course consists of three hours of lectures per week.
