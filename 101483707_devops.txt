@@ -1,4 +1,4 @@
 Comp 3104, DevOps course is offered at George Brown College as part of the Computer program, this course focuses on DevOp
 s practices, including continuous integration and continuos deployment.  
 The Computer Programming and Analysis program is a three-yea advanced diploma that provides comprehensive training in pro
-gramming and IT analysis.
+gramming and IT analysis. Throughout the program students engage in project-based and experiential learning.
